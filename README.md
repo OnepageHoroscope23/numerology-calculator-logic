@@ -1,4 +1,4 @@
-#Tamil Numerology Calculator — onepagehoroscope.com
+# Tamil Numerology Calculator — onepagehoroscope.com
 
 Tamil numerology is a powerful system that connects numbers with names and life energy. This calculator is designed to help users find the correct name number based on traditional Tamil numerology principles. By entering a name, the tool converts each letter into numerical values and calculates a total that reflects personality, luck, and life path. It simplifies complex calculations and gives users a clear understanding of how numbers influence their name.
 
